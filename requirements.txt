@@ -1,0 +1,8 @@
+pandas
+numpy
+openai
+tqdm
+matplotlib
+seaborn
+simpledorff
+statsmodels

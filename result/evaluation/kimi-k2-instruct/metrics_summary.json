@@ -1,0 +1,8 @@
+{
+    "label_accuracy": 0.43370165745856354,
+    "label_rmse": 1.3097593722740328,
+    "label_pearson": 0.2665370913259363,
+    "label_spearman": 0.26945155441366914,
+    "category_accuracy": 0.5564738292011019,
+    "target_accuracy": 0.6942148760330579
+}
